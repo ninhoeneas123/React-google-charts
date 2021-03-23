@@ -1,0 +1,48 @@
+body{
+margin:0;
+padding:0; 
+background-color:#0489B1;
+
+
+}
+div{
+  float:left;
+}
+.h3 {
+  text-align: bottom;
+  justify-content: bottom;
+  width: 100%;
+  height:auto
+
+}
+
+#c-graficos{
+  padding-top: 65px;
+  padding-bottom: 65px;
+  background-color: rgba(0, 0, 1, .2);
+  width:100%;
+  height:100%;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: row;
+  color: white;
+  margin-bottom: 45px;
+
+}
+.graficos{
+  background-color: blue;
+  width: auto;
+  height:auto;
+  border: .5px solid black;
+  margin: 20px;
+  margin-left: 90px;
+  margin-bottom: 20px;
+
+}
+.graficos-top{
+  margin-top: 40px;
+
+
+
+}
